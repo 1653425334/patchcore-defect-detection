@@ -1,0 +1,6 @@
+data/
+memory_bank.pt
+*.tar.xz
+__pycache__/
+*.pyc
+.idea/
